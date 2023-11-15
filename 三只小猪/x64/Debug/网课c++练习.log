@@ -1,0 +1,3 @@
+﻿  猜数字.cpp
+猜数字.obj : error LNK2005: main 已经在 三只小猪的体重.obj 中定义
+F:\源\网课c++练习\x64\Debug\网课c++练习.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
