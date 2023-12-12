@@ -1,0 +1,4 @@
+﻿  4.cpp
+F:\源\指针4\4.cpp(13,1): warning C4326: “main”的返回类型应为“int”而非“void”
+F:\源\指针4\4.cpp(10): warning C4172: 返回局部变量或临时变量的地址: list
+  指针4.vcxproj -> F:\源\指针4\x64\Debug\指针4.exe
